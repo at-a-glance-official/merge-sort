@@ -1,3 +1,5 @@
+# At A Glance! (Yash Ajit Paddalwar)
+
 def merge_sort(arr):
     if len(arr) > 1:
         left_arr = arr[0:len(arr)//2]
